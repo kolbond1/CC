@@ -1947,7 +1947,6 @@ body.ie ._ibg img {
 
   .wwd__title {
     padding: 30px 0px 0px 0px;
-    font-size: 24px;
   }
 
   .fast-start__logo img {
@@ -2026,6 +2025,10 @@ body.ie ._ibg img {
   .program__item._r span {
     width: 20px;
     opacity: 1;
+  }
+
+  .teachers__title {
+    font-size: 18px;
   }
 
   .teachers__row {
