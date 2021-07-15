@@ -1839,6 +1839,32 @@ body.ie ._ibg img {
   }
 }
 
+@media (max-width: 991.98px) and (orientation: landscape) {
+  .header__body {
+    padding: 15px 0px 0px 0px;
+  }
+
+  .top__content {
+    position: relative;
+    -webkit-transform: translate(0, 0%);
+        -ms-transform: translate(0, 0%);
+            transform: translate(0, 0%);
+  }
+
+  .top__title {
+    font-size: 40px;
+    padding: 0px 0px 35px 0px;
+  }
+
+  .countdown {
+    padding: 0px 0px 35px 0px;
+  }
+
+  .top-info {
+    position: relative;
+  }
+}
+
 @media (max-width: 767.98px) {
   ._container {
     max-width: none;
