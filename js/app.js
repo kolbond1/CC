@@ -838,7 +838,7 @@ function countdown(dateEnd) {
    function display(days, hours, minutes, seconds) {}
 }
 
-countdown ('09/10/2021 02:00:00 AM');
+countdown ('08/10/2021 02:00:00 AM');
 //let btn = document.querySelectorAll('button[type="submit"],input[type="submit"]');
 let forms = document.querySelectorAll('form');
 if (forms.length > 0) {
